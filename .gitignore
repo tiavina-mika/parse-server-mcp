@@ -147,4 +147,4 @@ vite.config.ts.timestamp-*
 dist/
 CLAUDE.local.md
 .claude/
-MCP_PARSE_SERVER_GUIDE.md
+# MCP_PARSE_SERVER_GUIDE.md
