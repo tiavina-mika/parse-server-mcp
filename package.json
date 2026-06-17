@@ -1,7 +1,7 @@
 {
   "name": "parse-server-mcp",
   "version": "0.1.0",
-  "description": "Serveur MCP exposant les operations d'un backend Parse Server (CRUD, schemas, queries) a des clients compatibles MCP",
+  "description": "MCP server implementation for Parse Server",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
